@@ -13,7 +13,6 @@
 <li>Motion Controller Programming</li><br />
 <li>Environement Lightning</li><br />
 <li>Android .apk Exporting</li><br />
-<li>Short VR Games</li><br />
 <li>ARCore / ARKit</li><br />
 <li>Virtual Hub Creation</li><br />
 </ul>
